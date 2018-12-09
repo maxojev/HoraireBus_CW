@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HoraireBus_CW</string>
+    <string name="title_activity_list_bus">activity_listBus</string>
 </resources>
